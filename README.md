@@ -1,2 +1,1 @@
-# terceirotri
-3tri
+# ResponsvidadeturmaA
